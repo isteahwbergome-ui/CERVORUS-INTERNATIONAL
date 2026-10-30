@@ -50,7 +50,7 @@ const projects = [
 ];
 
 const team = [
-  { name:"Schinaider Florestant", role:"PDG", image:", skills:["Directionimage: "actifs/schinaider-new.jpg","Vision stratégique"] },
+  { name:"Schinaider Florestant", role:"PDG", image:", skills:["Directionimage: "assets/schinaider-new.jpg","Vision stratégique"] },
   { name:"Yabens-Kely Felix", role:"DG", image:"assets/yabens-kely.jpg", skills:["Gestion","Coordination"] },
   { name:"Wilkenson Bergome", role:"Developer & Responsable Marketing Digital", image:"assets/wilkenson.jpg", skills:["Web","Marketing digital"] },
   { name:"D'ammischaddaï Paul", role:"Designer", image:"assets/dammischaddai.jpg", skills:["Design graphique","Création visuelle"] },
